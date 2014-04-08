@@ -1,0 +1,7 @@
+C:\Users\mmiller\Desktop\git_repos\GitService\GitService\GitService\obj\Debug\GitService.csprojResolveAssemblyReference.cache
+C:\Users\mmiller\Desktop\git_repos\GitService\GitService\GitService\bin\Debug\GitService.dll
+C:\Users\mmiller\Desktop\git_repos\GitService\GitService\GitService\bin\Debug\GitService.pdb
+C:\Users\mmiller\Desktop\git_repos\GitService\GitService\GitService\bin\Debug\RestSharp.dll
+C:\Users\mmiller\Desktop\git_repos\GitService\GitService\GitService\bin\Debug\RestSharp.xml
+C:\Users\mmiller\Desktop\git_repos\GitService\GitService\GitService\obj\Debug\GitService.dll
+C:\Users\mmiller\Desktop\git_repos\GitService\GitService\GitService\obj\Debug\GitService.pdb
